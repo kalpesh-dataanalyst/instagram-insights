@@ -5,4 +5,6 @@ Design a data-driven Instagram engagement analysis dashboard to gain insights in
 ### Dashboard
 ![image](https://github.com/kalpesh-dataanalyst/instagram-insights/assets/146686008/3fa7159d-0281-4a1b-b434-9fa776796831)
 
-### Observations/Suggestions/Conclusions
+### Key Findings
+
+### Conclusion
